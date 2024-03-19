@@ -17,6 +17,7 @@ section{
     width: 60%;
 }
 .link{
+    margin-bottom: 20px;
     text-decoration: none;
     background-image: linear-gradient(orange,tomato);
     color: aliceblue;
